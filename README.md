@@ -6,3 +6,4 @@
 5. maak tweede paragraaf aan en zet daar de bereiding voorwaarden in
 6. zoek een foto en plaats die in de index html
 7. zet een tweede foto in de index html
+8. zet de tweede recept er in
